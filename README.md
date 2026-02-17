@@ -1,4 +1,6 @@
-# Cache Workflow Repository
+# ga2-cache
+
+GitHub Actions Cache Workflow Repository
 
 This repository demonstrates GitHub Actions caching using `actions/cache@v4`.
 
